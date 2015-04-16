@@ -34,7 +34,7 @@ theme.font      = "Terminus 9"
 
 -- {{{ Colors
 theme.fg_normal  = theme.colors.base02
-theme.fg_focus   = theme.colors.base03
+theme.fg_focus   = theme.colors.base2
 theme.fg_urgent  = theme.colors.base3
 
 theme.bg_normal  = theme.colors.base3
