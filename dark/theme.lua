@@ -30,7 +30,7 @@ theme.colors.green   = "#859900ff"
 -- }}}
 
 -- {{{ Styles
-theme.font      = "Terminus 9"
+theme.font      = "Source Code Pro for Powerline 9"
 
 -- {{{ Colors
 theme.fg_normal  = theme.colors.base02
